@@ -1,0 +1,7 @@
+cffi==1.17.1
+numpy==1.24.1
+pycparser==2.22
+pydub==0.25.1
+pyrubberband==0.4.0
+soundfile==0.12.1
+openai-whisper==20240930
